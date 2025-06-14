@@ -1,3 +1,1 @@
 # No-nem
-new game Khanhlanh14 make "\n"
-Yeah! this is my first game and.....
